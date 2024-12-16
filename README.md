@@ -24,6 +24,8 @@ Dueling DQN for strategic action-value decomposition.
 
 Customizable and Scalable: Easily expand to additional environments or algorithms.
 
+Mimics human-like learning through hierarchical task complexity.
+
 Installation
 
 Clone the repository and install the required dependencies:
